@@ -1,4 +1,4 @@
-## Welcome to DS and Full Dev tutorials
+## Welcome to DS and Full Stack Dev tutorials
 
 This tutorial aims for upskilling the learners who want to learn Software development. Especially for learners from Working class families.
 
