@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to DS and Full Dev tutorials
 
-You can use the [editor on GitHub](https://github.com/Vinaykuresi/vinaykumarkuresi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This tutorial aims for upskilling the learners who want to learn Software development. Especially for learners from Working class families.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to change the content according to latest, by writing a pull request to me.
+
+About the Author, i am [Vinay Kumar Kuresi](https://www.vinaykumarkuresi.com/) Post Graduate in Master of Computer Applications, having Software Industry experience for 3 Years.
 
 ### Markdown
 
